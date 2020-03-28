@@ -21,3 +21,5 @@
 *   Their is no such ML algorithm that gives the super result then all the existing models. If it exists then all the models will be gone into dustbin.
 *   Basing on the Prior Knowlege, domain excepts, from the problem statement and  even from the first price winners one chooses the algorithm to tackle their problem.
 *   Let's try a bunch of regression models to apply on the dataset and we even try a ensemble MLP models on our data.
+
+You can see my article on this here: https://medium.com/@chaitanyanarava/mercari-price-suggestion-challenge-66500ac1f88a
